@@ -19,9 +19,9 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-service": "^5.0.8",
     "cors": "^2.8.5",
     "faker": "^4.1.0",
     "mockjs": "^1.0.1-beta3",
